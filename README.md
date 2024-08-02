@@ -31,16 +31,12 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The project is related to the task given 
+here is the complete task details:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Create a simple Firebase / React SPA in typescript.
+Set up emulators to run in dev mode.
+Create a simple notification system that allows a User to click 1 of three buttons, and receive a notification corresponding to the button they pushed.
+When a User views a notification, it should be marked "read".
+You may use whatever UI components you are comfortable with. You will not be judged on styling, but will be judged on your usage of the Firebase suite, code structure, code cleanliness, typescript usage, useful comments, and commit history.
