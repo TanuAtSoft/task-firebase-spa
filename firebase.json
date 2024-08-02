@@ -14,8 +14,11 @@
     },
     "singleProjectMode": true
   },
+  "firestore": {
+    "rules": "firestore.rules"
+  },
   "hosting": {
-    "public": "y",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
